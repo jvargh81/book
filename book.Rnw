@@ -1,0 +1,26 @@
+\documentclass{article}
+
+\begin{document}
+
+
+
+\title{Stress Management}
+\author{Jerrin Joe Varghese\and Chad Redmond}
+\date{}
+\maketitle
+
+<<child='children/chapter1.Rnw'>>==
+
+@
+
+<<child='children/chapter2.Rnw'>>==
+
+@
+
+<<child='children/chapter3.Rnw'>>==
+
+@
+
+
+
+\end{document}
